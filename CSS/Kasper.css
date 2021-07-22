@@ -628,7 +628,7 @@ header .form{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     text-align: center;
-    background: url("/images/stats.png");
+    background: url("../images/stats.png");
     background-size: cover;
     position: relative;
 }
